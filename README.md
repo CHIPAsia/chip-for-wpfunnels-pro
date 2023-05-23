@@ -1,8 +1,23 @@
-# WooCommerce CHIP Funnel
+# CHIP for WPFunnels Pro
 
-This plugins add capability for CHIP for WooCommerce to support WP Funnels Pro
+This plugins add capability for CHIP for WooCommerce to support WPFunnels Pro
 
 This is an experimental plugin which will add support for upsell feature.
+
+## Installation
+
+* [Download zip file of WPFunnels Pro plugin.](https://github.com/CHIPAsia/chip-for-wpfunnels-pro/archive/refs/heads/main.zip)
+* Log in to your Wordpress admin panel and go: **Plugins** -> **Add New**
+* Select **Upload Plugin**, choose zip file you downloaded in step 1 and press **Install Now**
+* Activate plugin
+
+## Configuration
+
+Activate force tokenization option in CHIP for WooCommerce settings.
+
+## Other
+
+Facebook: [Merchants & DEV Community](https://www.facebook.com/groups/3210496372558088)
 
 ## Full Disclaimer
 

@@ -2,8 +2,8 @@
 
 /**
  *
- * Plugin Name: WooCommerce CHIP Funnel
- * Description: This to add support for WP Funnels Pro with CHIP for WooCommerce.
+ * Plugin Name: CHIP for WPFunnels Pro
+ * Description: This to add support for WPFunnels Pro with CHIP for WooCommerce.
  * Version: 1.0.0
  * 
  * License: GNU General Public License v3.0
